@@ -1,0 +1,12 @@
+.cust-color{
+    background-color:  #222654;
+    border-bottom: 2px solid #5d68e2;
+}
+.navbar-dark .navbar-nav .nav-link{
+    color: #967be6;
+    margin-left: 20px;
+    font-weight: 500;
+}
+.navbar-dark .navbar-nav .nav-link:hover{
+    color: #fff;
+}
