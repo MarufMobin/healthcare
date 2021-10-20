@@ -1,4 +1,19 @@
 .service-section{
-    background-color: royalblue;
+    background-color: rgb(219, 225, 243);
     padding: 80px 0px;
+}
+.service-section .title{
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 60px;
+}
+.service-section .des{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+.servicesRow .firstRow{
+    box-shadow: 0px 5px 15px -6px #222654;
+    padding: 30px 15px;
+    border-radius: 20px;
 }

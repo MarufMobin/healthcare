@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "name":"Dr. Rass Venors",
+      "picture": "https://i.ibb.co/vwYG8Kz/team-01.jpg",
+      "Degisnation": "MBBS of Pathology, USA"
+    },
+    {
+      "id": 2,
+      "name":"Sandra Ratliff",
+      "picture": "https://i.ibb.co/hR6DSTj/team-02.jpg",
+      "Degisnation": "MBBS of Pathology, USA"
+
+    },
+    {
+      "id": 3,
+      "name":"James S Henning",
+      "picture": "https://i.ibb.co/2nkbRsJ/team-03.jpg",
+      "Degisnation": "MBBS of Pathology, USA"
+
+    },
+    {
+      "id": 4,
+      "name":"James S Henning",
+      "picture": "https://i.ibb.co/2nkbRsJ/team-03.jpg",
+      "Degisnation": "MBBS of Pathology, USA"
+
+    },
+    {
+      "id": 5,
+      "name":"James S Henning",
+      "picture": "https://i.ibb.co/2nkbRsJ/team-03.jpg",
+      "Degisnation": "MBBS of Pathology, USA"
+
+    },
+    {
+      "id": 6,
+      "name":"James S Henning",
+      "picture": "https://i.ibb.co/2nkbRsJ/team-03.jpg",
+      "Degisnation": "MBBS of Pathology, USA"
+
+    },
+    {
+      "id": 7,
+      "name":"James S Henning",
+      "picture": "https://i.ibb.co/2nkbRsJ/team-03.jpg",
+      "Degisnation": "MBBS of Pathology, USA"
+
+    },
+    {
+      "id": 8,
+      "name":"James S Henning",
+      "picture": "https://i.ibb.co/2nkbRsJ/team-03.jpg",
+      "Degisnation": "MBBS of Pathology, USA"
+
+    }
+]

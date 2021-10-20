@@ -2,7 +2,7 @@
     width: 20px;
     height: 20px;
     border-radius: 50%;
-    background-color: rebeccapurple;
+    background-color: #222654;
 }
 .carousel-div{
     width: 100%;
@@ -10,14 +10,13 @@
 .carousel-div img{
     width: 100%;
 }
-.carousel-text{
+.carousel-text {
     font-size: 2rem;
     width: 40%;
-    background-color: rgb(226, 222, 222);
-    box-shadow: 0px 0px 18px -5px #000;
-    padding: 50px;
+    background-color: rgb(34 38 84);
+    box-shadow: 3px 3px 18px -4px #222654;
+    padding: 60px 30px;
     margin-bottom: 236px;
-    border-radius: 18px;
+    border-radius: 35px;
     margin-left: 25px;
-
 }

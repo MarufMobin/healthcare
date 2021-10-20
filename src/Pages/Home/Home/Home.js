@@ -3,8 +3,11 @@ import Footer from '../../Shared/Footer/Footer';
 import Header from '../../Shared/Header/Header';
 import About from '../About/About';
 import Banner from '../Banner/Banner';
-import Emergency from '../Emergency/Emergency';
+import Doctors from '../Doctors/Doctors';
+import Emergency from '../../Contact/Emergency/Emergency';
 import Services from '../Services/Services';
+import Support from '../Support/Support';
+import Trusted from '../Trusted/Trusted';
 
 const Home = () => {
     return (
@@ -13,7 +16,8 @@ const Home = () => {
             <Banner></Banner>
             <About></About>
             <Services></Services>
-            <Emergency></Emergency>
+            <Trusted></Trusted>
+            <Support></Support>
             
         </div>
     );

@@ -1,0 +1,91 @@
+.cus-mar{
+    margin-left: 25%;
+}
+ 
+@media only screen and (min-width:320px) and (max-width: 667px){
+    .inner-text{
+        padding: 0px;
+    }.footer-section{
+        padding: 0px;
+    }
+    .inner-design{
+        padding: 0px;
+        overflow: hidden;
+    }
+    .carousel-text{
+        margin: 0px;
+        padding: 10px;
+        width: 100%;
+        text-align: center;
+        font-size: 18px;
+    }
+    .carousel-caption{
+        left: 0%;
+    }
+    
+} 
+@media only screen and (max-width:688px) {
+    .inner-text{
+        padding: 0px;
+    }.footer-section{
+        padding: 0px;
+    }
+    .inner-design{
+        padding: 0px;
+        overflow: hidden;
+    }
+    .carousel-text{
+        margin: 0px;
+        padding: 10px;
+        width: 100%;
+        text-align: center;
+        font-size: 18px;
+    }
+    .carousel-caption{
+        left: 0%;
+    }
+}
+@media only screen and (min-width:689px) and (max-width: 991px){
+    .inner-text{
+        padding: 0px;
+    }.footer-section{
+        padding: 0px;
+    }
+    .inner-design{
+        padding: 0px;
+        overflow: hidden;
+    }
+    .carousel-text{
+        margin: 0px;
+        padding: 10px;
+        width: 100%;
+        text-align: center;
+        font-size: 18px;
+    }
+    .carousel-caption{
+        left: 0%;
+    }
+}
+.testimonial .testiOne{
+    border: 1px solid #222654;
+    padding: 10px;
+    font-size: 12px;
+    border-radius: 30px;
+    margin-bottom: 30px;
+}
+.testimonial .testiTwo{
+    border: 3px solid red;
+    padding: 30px;
+    font-size: 12px;
+}
+.testimonial-section{
+    padding: 80px 0px;
+}
+.flug-second{
+    border: 1px solid #222654;
+    padding: 10px;
+    font-size: 12px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    box-shadow: 0px 0.75rem 0.25rem rgb(68 83 100 / 10%);
+}

@@ -1,0 +1,12 @@
+.cart-body{
+    background-color: #222654;
+    box-sizing: border-box;
+    padding: 40px;
+    box-shadow: 2px 4px 9px #222654;
+    color: #fff;
+}
+.cart-body img{
+    border-radius: 10px;
+    display: inline-block;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,20 @@
+.items {
+    padding: 23px 0px 30px;
+    border-bottom: 3px solid #222654;
+    position: relative;
+    overflow: hidden;
+    -webkit-box-shadow: 0px 5px 20px 0px rgb(230 230 230 / 60%);
+    box-shadow: 0px 5px 20px 0px rgb(230 230 230 / 60%);
+}
+.inner-cart img{
+
+}
+.inner-cart h4{
+
+}
+.inner-cart p{
+
+}
+.custom-btn{
+
+}

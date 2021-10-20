@@ -9,6 +9,7 @@ import Contact from './Pages/Contact/Contact/Contact';
 import NotFound from './Pages/NotFound/NotFound'
 import Header from './Pages/Shared/Header/Header';
 import Footer from './Pages/Shared/Footer/Footer';
+import Doctors from './Pages/Home/Doctors/Doctors';
 
 function App() {
   return (
@@ -25,8 +26,8 @@ function App() {
             <Route exact path="/about/:aboutId">
               <About></About>
             </Route>
-            <Route exact path="/services">
-              <Services></Services>
+            <Route exact path="/doctors">
+              <Doctors></Doctors>
             </Route>
             <Route exact path="/contact">
               <Contact></Contact>

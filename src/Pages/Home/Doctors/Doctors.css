@@ -1,0 +1,17 @@
+.doctor-section{
+    padding: 80px;
+    text-align: center;
+}
+
+.inner-doctor h3{
+    font-size: 22px;
+    font-weight: 700;
+}
+.inner-doctor h2{
+    
+}
+.inner-doctor p {
+    width: 42%;
+    margin: 0px auto 40px;
+    font-size: 18px;
+}

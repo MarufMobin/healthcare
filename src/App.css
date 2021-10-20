@@ -6,3 +6,36 @@ body{
   padding: 0px;
   box-sizing: border-box;
 }
+.custom-btn {
+  background-color: #222654;
+  padding: 15px 30px;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 500;
+  border-radius: 30px;
+  border: 2px solid #fff;
+  transition: .3s;
+}
+
+.custom-btn:hover{
+  background-color: #fff;
+  font-weight: 700;
+  border: 2px solid #222654;
+  color:  #222654;
+}
+.custom-btn-another {
+  padding: 12px 30px;
+  font-size: 18px;
+  font-weight: 500;
+  border-radius: 30px;
+  transition: .3s;
+  background-color: #fff;
+  border: 2px solid #222654;
+  color:  #222654;
+}
+
+.custom-btn-another:hover{
+  background-color: #222654;
+  color: #fff;
+  border: 2px solid #fff;
+}
